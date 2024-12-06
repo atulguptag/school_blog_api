@@ -21,7 +21,7 @@ Before setting up this project, ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/atulguptag/school_blog_api
 cd school_blog_api
 ```
 
